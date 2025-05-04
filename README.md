@@ -13,7 +13,7 @@ Here’s a polished version of your section:
   - Tech Communities  
 - 📫 **Reach Me**:  
   - Email: [deeptech104@gmail.com](mailto:deeptech104@gmail.com)  
-  - LinkedIn: [Deepak Sharma](https://www.linkedin.com/in/deepak-sharma)  
+  - LinkedIn: [Deepak Sharma](https://www.linkedin.com/in/deepak-sharma-615212287/)  
 - ⚡ **Fun Fact**: I love exploring futuristic tech and hacking on side projects!  
 ### 🧰 Tech Stack
 
