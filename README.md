@@ -1,15 +1,19 @@
-# 👋 Hi, I’m Deeptech104
 
-- 👀 I’m interested in **Technology, AI, Open-Source, and Web Development**  
-- 🌱 I’m currently learning **Machine Learning, Cloud Computing, and DevOps Tools**  
-- 💞️ I’m looking to collaborate on **Open Source Projects and Tech Communities**  
-- 📫 How to reach me: **[deeptech104@gmail.com]** or **[https://www.linkedin.com/in/deepak-sharma]**  
-- 😄 Pronouns: **He/Him**  
-- ⚡ Fun fact: **I love exploring futuristic tech and hacking on side projects!**
+# 👋 Hi, I’m Deepak Sharma  
+
+- 👀 **Interests**: Technology, AI, Open Source, and Web Development  
+- 🌱 **Current Endeavors**:  
+  - Teaching web development  
+  - Building exciting web projects  
+- 💞️ **Collaborations**:  
+  - Open Source Projects  
+  - Tech Communities  
+- 📫 **Reach Me**:  
+  - Email: [deeptech104@gmail.com](mailto:deeptech104@gmail.com)  
+  - LinkedIn: [Deepak Sharma](https://www.linkedin.com/in/deepak-sharma)  
+- 😄 **Pronouns**: He/Him  
+- ⚡ **Fun Fact**: I love exploring futuristic tech and hacking on side projects!  
 
 ---
 
-<!---
-Deeptech104/Deeptech104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let me know if you'd like additional customization or if there's something specific you'd like to add!
