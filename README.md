@@ -26,10 +26,3 @@
 
 ---
 
-<!---
-Deeptech104/Deeptech104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-Let me know if you'd like additional customization or if there's something specific you'd like to add!
