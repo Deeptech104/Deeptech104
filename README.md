@@ -1,4 +1,4 @@
- <img src=""/>
+ <img src="DeepTech Ai the rapid technological progress..png"/>
 # 👋 Hi, I’m Deepak Sharma  
 
 - 👀 **Interests**: Technology, AI, Open Source, and Web Development  
