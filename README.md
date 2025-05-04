@@ -2,7 +2,6 @@
 # 👋 Hi, I’m Deepak Sharma  
 
 - 👀 **Interests**: Technology, AI, Open Source, and Web Development  
-Here’s a polished version of your section:
 
 - 🌱 **Current Endeavors**:  
   - Teaching web development  
