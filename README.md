@@ -1,6 +1,3 @@
-Here’s an updated version of your `README.md` file with improvements based on your original content and suggestions:
-
----
 
 # 👋 Hi, I’m Deepak Sharma
 
