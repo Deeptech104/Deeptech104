@@ -68,13 +68,6 @@ I’m Deepak Sharma, a passionate developer, educator, and tech enthusiast commi
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
----
-
-### 🌟 **Projects**
-- [**Project Name**](https://github.com/Deeptech104/project-name): A brief description of the project.
-- [**Another Project**](https://github.com/Deeptech104/another-project): Another brief description.
-
----
 
 ### ⚡ **Fun Fact**
 I love exploring futuristic tech and hacking on side projects!
@@ -89,14 +82,4 @@ I love exploring futuristic tech and hacking on side projects!
 
 ---
 
-### 🚀 **Call to Action**
-Feel free to reach out to collaborate on exciting projects or just have a tech chat. Let's innovate together!
 
----
-
-**Suggestions for further improvement:**
-1. Update the placeholder links (Instagram, Facebook, etc.) with your actual profile URLs.
-2. Ensure the banner image (`DeepTech Ai the rapid technological progress..png`) is properly linked or hosted online for visibility.
-3. Add descriptions to the projects section with actual projects.
-
-Would you like me to further customize or add any specific details?
